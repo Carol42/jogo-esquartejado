@@ -13,4 +13,5 @@ bolacha,comida
 matrix,filme
 gato,animal
 girafa,animal
-papagaio,animal
+papagaio,animalbolo,comida
+pizza,comida
