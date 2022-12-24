@@ -1,0 +1,6 @@
+maca,fruta
+macaco,animal
+matematica,materia
+macarrão,comida
+cachorro,animal
+banana,fruta
