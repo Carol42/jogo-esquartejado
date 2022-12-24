@@ -1,6 +1,16 @@
 maca,fruta
 macaco,animal
 matematica,materia
-macarrão,comida
+macarrao,comida
 cachorro,animal
 banana,fruta
+titanic,filme
+natal,feriado
+batman,personagem
+arroz,comida
+uva,fruta
+bolacha,comida
+matrix,filme
+gato,animal
+girafa,animal
+papagaio,animal
